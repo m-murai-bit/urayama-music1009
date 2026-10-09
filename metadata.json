@@ -1,0 +1,7 @@
+{
+  "name": "青春の味 - 特設音楽配信サイト",
+  "description": "楽曲「青春の味」（学園祭の願い事）の公式特設音楽配信Webサイト。カスタムオーディオプレイヤー、動的イコライザー波形、歌詞同期スクロール対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
